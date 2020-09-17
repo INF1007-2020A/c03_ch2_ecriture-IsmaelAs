@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def majuscule(mot):
-    resultat = ''
+    resultat = 'fghgj'
     for lettre in mot:
         # TODO completer la fonction ici
         
